@@ -1,0 +1,19 @@
+# Original source files (already copied to assets/images)
+木料产品图片/
+其他图片/
+
+# Documents
+*.pdf
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Node
+node_modules/
